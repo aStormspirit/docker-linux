@@ -1,0 +1,5 @@
+.env
+test.txt
+test2.txt
+ignore-this
+/ignore-this/*.txt
