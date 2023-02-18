@@ -1,4 +1,4 @@
-<b>Linux-Docker course!123 12<b>
+<b>Linux-Docker course!<b>
 
 Code for Synergy group, my homework on task with docker
 
