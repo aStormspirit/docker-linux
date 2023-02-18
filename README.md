@@ -1,4 +1,4 @@
-<b>Linux-Docker course!123121<b>
+<b>Linux-Docker course!1231212<b>
 Code for Synergy group, my homework on task with docker
 
 lesson-6.1 скрипт для ubuntu и докерфаил для ubuntu. запуск docker build --tag ubuntu-shell . docker run ubuntu-shell
